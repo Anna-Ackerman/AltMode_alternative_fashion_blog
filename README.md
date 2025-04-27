@@ -1,4 +1,4 @@
-# AltMode
+# AltMode_alternative_fashion_blog
 
 ### Welcome
 Welcome to the repository of the **AltMode** project — a multi-page website dedicated to alternative fashion. The site was created to showcase the brand, its services, portfolio, blog, and contact information.
@@ -46,12 +46,12 @@ AltMode_alternative_fashion_blog/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/AltMode.git
+git clone https://github.com/username/AltMode_alternative_fashion_blog.git
 ```
 
 2. Navigate to the project folder:
 ```bash
-cd AltMode
+cd AltMode_alternative_fashion_blog
 ```
 
 3. Start a local server (recommended for correct resource loading):
